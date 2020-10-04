@@ -1,0 +1,22 @@
+{
+  "name": "@corepassport/kb",
+  "version": "1.0.0",
+  "description": "Core Passport Knowledge Base",
+  "main": "index.js",
+  "authors": {
+    "name": "Raisty",
+    "email": "contact@corepassport.com"
+  },
+  "repository": "https://github.com/CorePassport/web-help-corepassport",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  },
+  "dependencies": {
+    "vuepress-theme-book": "^0.0.4"
+  }
+}
